@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Downloads/owl"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "project resources"
+  }
+}
